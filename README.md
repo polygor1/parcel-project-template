@@ -1,3 +1,3 @@
-# goit-js-hw-11-promisification
+# parcel-project-template
 
-DZ-11 Promisification
+parcel-project-template
